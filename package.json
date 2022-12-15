@@ -1,0 +1,19 @@
+{
+  "name": "showclix-interview-puzzle",
+  "version": "1.0.0",
+  "description": "Your younger sister is putting on a puppet show in your family's back yard. She has left you in charge of ticketing the big event. She has informed you that she wants assigned seating. She plans on setting up 33 seats; 3 rows with 11 seats each. She already has several seats reserved for her parents and best friends. Being a good computer scientist, you decide to whip up a quick program to help her out.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaredcacurak/showclix-interview-puzzle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaredcacurak/showclix-interview-puzzle/issues"
+  },
+  "homepage": "https://github.com/jaredcacurak/showclix-interview-puzzle#readme"
+}
